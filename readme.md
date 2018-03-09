@@ -30,7 +30,7 @@
 
 - Require it with Composer:
 ```bash
-composer require rickycezar/laravel-impersonate
+composer require tealendril/laravel-jwt-impersonate
 ```
 
 - Add the service provider at the end of your `config/app.php`:
